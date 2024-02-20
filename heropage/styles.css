@@ -1,0 +1,21 @@
+@charset "UTF-8";
+h1 {
+    font-family: arial;
+	color:coral
+}
+
+h2 {
+    font-family: arial;
+}
+
+.pagebox {
+	background-color:#1F1F1F
+}
+
+article {
+	background:antiquewhite	
+}
+
+foo {
+    align-content: center;
+}
